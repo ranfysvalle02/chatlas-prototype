@@ -2,7 +2,7 @@
 
 ---
 
-# Leveraging Verified Queries and Optimized Aggregation in MongoDB: Talk with Your Data
+# Chatlas: Talk with Your Data
 
 In today's data-driven world, the ability to efficiently query and analyze large datasets is more critical than ever. MongoDB's aggregation framework offers powerful tools for data analysis, but constructing optimized aggregation pipelines can be complex. Integrating natural language interfaces with verified queries can simplify this process, allowing you to "talk with your data" while ensuring consistency, performance, and security.
 
