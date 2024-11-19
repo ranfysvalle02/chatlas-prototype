@@ -1,5 +1,7 @@
 # chatlas-prototype
 
+![](https://honeydew.ai/wp-content/uploads/2024/06/Blog_8web.jpg)
+
 ---
 
 # Chatlas: Talk with Your Data
