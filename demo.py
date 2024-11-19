@@ -16,7 +16,7 @@ You are a helpful assistant that translates English to MongoDB Aggregation Pipel
 [context]
 collection = "movies"
 [verified pipelines]
-[user_input=`What are the best 1337 movies`]
+[user_input=`What are the best 999 movies`]
 {[
     {
         '$project': {
@@ -37,7 +37,7 @@ collection = "movies"
             'combined_rating': -1
         }
     }, {
-        '$limit': 1337
+        '$limit': 999
     }
 ]}
 [/verified pipelines]
